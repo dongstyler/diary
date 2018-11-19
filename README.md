@@ -1,2 +1,0 @@
-# diary
-my diary
